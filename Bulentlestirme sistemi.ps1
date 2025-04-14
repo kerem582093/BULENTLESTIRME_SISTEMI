@@ -5,7 +5,7 @@ $desktopPath = [Environment]::GetFolderPath('Desktop')
 $fileCount = (Get-ChildItem -Path $desktopPath).Count
 
 # 40 klasör oluşturmayı hedefle
-$maxFolders = 400
+$maxFolders = 70
 
 # Klasörleri oluştur
 for ($i = 1; $i -le $maxFolders; $i++) {
