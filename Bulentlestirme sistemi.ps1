@@ -18,7 +18,7 @@ for ($i = 1; $i -le $maxFolders; $i++) {
 }
 
 # Masaüstü arka planını ayarlamak için URL'yi indir ve ayarla
-$url = "https://i.imgur.com/lnVf5Z1.jpeg"
+$url = "https://i.imgur.com/goiTn6E.jpeg"
 $path = "$env:TEMP\wall.jpg"
 Invoke-WebRequest $url -OutFile $path
 
