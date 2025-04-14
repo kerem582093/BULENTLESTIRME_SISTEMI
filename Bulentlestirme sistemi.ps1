@@ -28,7 +28,7 @@ Add-Type '[DllImport("user32.dll")]public static extern bool SystemParametersInf
 
 # URL'yi aç
 Start-Process 'https://i.imgur.com/oFJb19f.png'
-Start-Sleep -Seconds 1
+Start-Sleep -Seconds 2
 Start-Process 'https://www.google.com/search?q=uomur+06+ense&oq=uomur+06+ense&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDM5MzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8'
 
 # Video URL'sini aç
