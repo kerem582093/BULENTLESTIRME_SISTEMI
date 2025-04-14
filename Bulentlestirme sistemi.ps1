@@ -37,6 +37,6 @@ Start-Process 'https://www.youtube.com/watch?v=tGjylPp45hk'
 
 # Mesaj kutularını 30 kez göster
 Start-Sleep -Seconds 3 # Video ve resim açıldıktan sonra biraz bekle
-for ($j = 1; $j -le 30; $j++) {
-    [System.Windows.Forms.MessageBox]::Show('BULENTLESTIRME ISLEMI TAMAMLANDI', 'İşlem Tamamlandı', [System.Windows.Forms.MessageBoxButtons]::OK, [System.Windows.Forms.MessageBoxIcon]::Information)
+for ($j = 1; $j -le 60; $j++) {
+    [System.Windows.Forms.MessageBox]::Show('BULENTLESTIRME ISLEMI TAMAMLANDI', 'UOmur06 Ense', [System.Windows.Forms.MessageBoxButtons]::OK, [System.Windows.Forms.MessageBoxIcon]::Information)
 }
