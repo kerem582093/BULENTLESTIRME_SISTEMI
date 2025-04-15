@@ -34,7 +34,7 @@ Start-Process 'https://i.imgur.com/vmYFcuf.png'
 Start-Process 'https://i.imgur.com/ZIw7QUp.jpeg'
 Start-Process 'https://i.imgur.com/MhH92eF.png'
 Start-Sleep -Seconds 2
-Start-Process 'https://www.google.com/search?q=uomur+06+ense&oq=uomur+06+ense&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDM5MzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8'
+Start-Process 'https://www.google.com/search?q=altantuni&oq=altantuni&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQLhgNGLEDGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgwIBRAAGA0YsQMYgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAuGA0YgATSAQg1NzY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8'
 
 # Video URL'sini aç
 #Start-Sleep -Seconds 2 # Video URL'sinden önce 2 saniye bekle
