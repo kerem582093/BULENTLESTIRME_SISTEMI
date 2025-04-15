@@ -33,6 +33,7 @@ Start-Process 'https://i.imgur.com/52CB4FD.jpeg'
 Start-Process 'https://i.imgur.com/vmYFcuf.png'
 Start-Process 'https://i.imgur.com/ZIw7QUp.jpeg'
 Start-Process 'https://i.imgur.com/MhH92eF.png'
+Start-Process 'https://i.imgur.com/vwuvIoL.png'
 Start-Sleep -Seconds 2
 Start-Process 'https://www.google.com/search?q=altantuni&oq=altantuni&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQLhgNGLEDGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgwIBRAAGA0YsQMYgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAuGA0YgATSAQg1NzY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8'
 
