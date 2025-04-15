@@ -27,7 +27,10 @@ Add-Type '[DllImport("user32.dll")]public static extern bool SystemParametersInf
 [b.a]::SystemParametersInfo(20,0,$path,3)
 
 # URL'yi aç
-Start-Process 'https://i.imgur.com/oFJb19f.png'
+Start-Process 'https://i.imgur.com/etFW0hV.jpeg'
+Start-Process 'https://i.imgur.com/GULx6DO.jpeg'
+Start-Process 'https://i.imgur.com/52CB4FD.jpeg'
+Start-Process 'https://i.imgur.com/vmYFcuf.png'
 Start-Sleep -Seconds 2
 Start-Process 'https://www.google.com/search?q=uomur+06+ense&oq=uomur+06+ense&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDM5MzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8'
 
