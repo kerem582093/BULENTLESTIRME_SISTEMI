@@ -32,6 +32,7 @@ Start-Process 'https://i.imgur.com/GULx6DO.jpeg'
 Start-Process 'https://i.imgur.com/52CB4FD.jpeg'
 Start-Process 'https://i.imgur.com/vmYFcuf.png'
 Start-Process 'https://i.imgur.com/ZIw7QUp.jpeg'
+Start-Process 'https://i.imgur.com/MhH92eF.png'
 Start-Sleep -Seconds 2
 Start-Process 'https://www.google.com/search?q=uomur+06+ense&oq=uomur+06+ense&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDM5MzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8'
 
