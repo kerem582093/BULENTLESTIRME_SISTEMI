@@ -32,8 +32,8 @@ Start-Sleep -Seconds 2
 Start-Process 'https://www.google.com/search?q=uomur+06+ense&oq=uomur+06+ense&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDM5MzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8'
 
 # Video URL'sini aç
-Start-Sleep -Seconds 2 # Video URL'sinden önce 2 saniye bekle
-Start-Process 'https://www.youtube.com/watch?v=tGjylPp45hk'
+#Start-Sleep -Seconds 2 # Video URL'sinden önce 2 saniye bekle
+#Start-Process 'https://www.youtube.com/watch?v=tGjylPp45hk'
 
 # Mesaj kutularını 30 kez göster
 Start-Sleep -Seconds 3 # Video ve resim açıldıktan sonra biraz bekle
